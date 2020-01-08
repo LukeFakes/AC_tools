@@ -1403,7 +1403,7 @@ def plot_spatial_figure(arr, fixcb=None, cb_sigfig=2,
                         verbose=False, debug=False):
     """
     Wrapper for map_plot - Creates a "standard" spatial plot with acceptable
-    ascethics. Customise with a range of arguements provide during the call
+    aesthetics. Customise with a range of arguements provide during the call
     to function.
 
     Parameters
